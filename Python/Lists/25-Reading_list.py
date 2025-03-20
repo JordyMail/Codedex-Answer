@@ -1,5 +1,4 @@
-# Reading List 📚
-# Codédex
+# Reading List 
 
 books = ['Harry Potter',
          '1984',
