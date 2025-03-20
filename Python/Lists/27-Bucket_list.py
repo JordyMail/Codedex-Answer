@@ -1,5 +1,4 @@
-# Bucket List 🪣
-# Codédex
+# Bucket List 
 
 things_to_do = [
    '🚀 Build a meaningful product for everyone.',
