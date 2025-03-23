@@ -1,6 +1,3 @@
-# D.R.Y. 🧩
-# Codédex
-
 import random
 
 list_of_foods = ['celery', 'broccoli', 'cabbage']
